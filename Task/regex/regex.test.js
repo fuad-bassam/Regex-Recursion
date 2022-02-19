@@ -35,8 +35,8 @@ function ioEmail(email){
 /* You have a text that contain image names with their extention you need to write a function to 
 find all images in that text and return their names and extention in an array 
 
-required extention are jpg, jpeg and png.
 
+required extention are jpg, jpeg and png.
 */
 
 function imagesSearcher(text){
